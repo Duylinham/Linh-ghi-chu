@@ -1,0 +1,5 @@
+{
+  "name": "Reminder",
+  "description": "A smart desktop appointment reminder application that uses AI to help you schedule your events. Simply type what you want to be reminded of, and the AI will set up the appointment for you.",
+  "requestFramePermissions": []
+}
